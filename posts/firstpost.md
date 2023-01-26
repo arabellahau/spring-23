@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Hammerhead Sharks
+description: Hammerhead Sharks are the smallest of the shark family.
 date: 2018-05-01
 tags:
   - another tag
