@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Fashion Trends of 2023
+description: past and upcoming trends in fashion 2023
 date: 2018-05-01
 tags:
   - another tag
