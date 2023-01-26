@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: January trends
+description: fashion trends of January 2023
 date: 2018-07-04
 tags:
   - number 2
