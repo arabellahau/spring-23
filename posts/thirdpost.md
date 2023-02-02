@@ -1,6 +1,6 @@
 ---
-title: This is the third post.
-description: This is the description of the third post.
+title: Trending Shoes
+description: Shoes trending during the 2023 Spring season.
 date: 2018-08-24
 tags:
   - second tag
