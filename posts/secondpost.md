@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: Trending Bottoms 
+description: Bottoms trending during the 2023 Spring Season
 date: 2018-07-04
 tags:
   - number 2
