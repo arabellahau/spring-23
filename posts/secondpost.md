@@ -1,6 +1,6 @@
 ---
-title: Trending Bottoms 
-description: Bottoms trending during the 2023 Spring Season
+title: Trending Shoes
+description: Shoestrending during the 2023 Spring Season
 date: 2018-07-04
 tags:
   - number 2
